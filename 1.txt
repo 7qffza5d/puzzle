@@ -1,0 +1,20 @@
+10 18
+A B 47
+A D 33
+A F 62
+B C 58
+B E 41
+C D 29
+C E 20
+C G 73
+D F 55
+D H 66
+E G 48
+E H 30
+F G 52
+F I 71
+G I 64
+H I 57
+H J 40
+I J 68
+C J
