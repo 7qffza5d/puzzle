@@ -27,12 +27,12 @@ vector<int> dijkstra(int src, vector<vector<pair<int,int>>> adj){
 int main(){
     ios_base::sync_with_stdio(false); cin.tie(NULL);
 
-    int n; cin >> V >> n;
+    int n; cin >> V >> n; //Amt of vertices and amt of edges
     vector<vector<pair<int,int> > > adj(V);
     for(int i = 0; i < n; i++){
         char u, v;
         int wt;
-        cin >> u >> v >> wt;
+        cin >> u >> v >> wt; //insert n edges
         add_edge(adj, u, v, wt);
     }
     char src, dst;
