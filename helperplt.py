@@ -2,7 +2,7 @@
 #or run this in some online IDE for python
 #just make sure you can use matplotlib
 import matplotlib.pyplot as plt
-#i dont remember if csv is a builtin package but make sure you can run it
+#i dont remember if csv is a builtin module but make sure you can run it
 import csv
 
 points = []
